@@ -1,0 +1,6 @@
+::ng-deep .highlight-selected {
+  background-color: #5cb85c !important;
+  color: #fff !important;
+  border-radius: 50%;
+  font-weight: bold;
+}
